@@ -21,7 +21,7 @@ int main()
         }
         if (i >a/2)
         {
-            cout << endl << a;
+            cout << endl << a<< endl ;
             break;
         }
     }
